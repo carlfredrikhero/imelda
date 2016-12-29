@@ -1,0 +1,31 @@
+{
+  "name": "imelda",
+  "version": "0.1.0",
+  "description": "Imelda may some day be something like a game engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlfredrikhero/imelda.git"
+  },
+  "author": "Carl-Fredrik Herö",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlfredrikhero/imelda/issues"
+  },
+  "homepage": "https://github.com/carlfredrikhero/imelda#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-eslint": "^7.1.0",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "eslint": "^3.10.0",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
